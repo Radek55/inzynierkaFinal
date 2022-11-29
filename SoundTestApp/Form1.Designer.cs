@@ -2728,7 +2728,6 @@
             this.ClientSize = new System.Drawing.Size(809, 490);
             this.Controls.Add(this.buttonBack);
             this.Controls.Add(this.buttonNext);
-            this.Controls.Add(this.panelBadanie2);
             this.Controls.Add(this.panelBadanie1);
             this.Controls.Add(this.panelTutorial);
             this.Controls.Add(this.panelStart);
@@ -2741,6 +2740,7 @@
             this.Controls.Add(this.panelBadanie5);
             this.Controls.Add(this.panelBadanie4);
             this.Controls.Add(this.panelBadanie3);
+            this.Controls.Add(this.panelBadanie2);
             this.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.Name = "Form1";
             this.Text = "Test słuchowy";
