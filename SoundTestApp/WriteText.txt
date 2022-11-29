@@ -1,4 +1,0 @@
-Kod uzytkownika: 99
-Badanie 1_1, wynik: C
-Badanie 1_2, wynik: C
-Badanie 1_3, wynik: C

@@ -1,0 +1,10 @@
+1 A p23
+2 A p23
+3 A forty
+4 A p23
+5 A forty
+6 A paon
+7 A paon
+8 A oliwa
+9 A oliwa
+10 A paon

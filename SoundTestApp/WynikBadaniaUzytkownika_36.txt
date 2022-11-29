@@ -1,4 +1,0 @@
-Kod uzytkownika: 36
-Badanie 1_1, wynik: A
-Badanie 1_2, wynik: A
-Badanie 1_3, wynik: A

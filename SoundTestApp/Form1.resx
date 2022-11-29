@@ -57,12 +57,9 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="label1.Text" xml:space="preserve">
-    <value>Test słuchowy do pracy inżynierskiej pt. "Wpływ akustyki pomieszczenia 
-na brzmienie nagłaśnianego koncertu przy dużym udziale instrumentów akustycznych"
-
-Autor: Radosław Bielak, Inżynieria Akustyczna, WiMIR AGH</value>
-  </data>
+  <metadata name="openFileDialog1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
   <data name="labelStart.Text" xml:space="preserve">
     <value>Poniższe badanie polega na ocenie subiektywnych parametrów poprzez odsłuchanie fragmentów koncertu
 nagranych metodą binauralną, a następnie wskazanie, które zdanie bardziej pasuje do konkretnego nagrania.
@@ -72,7 +69,13 @@ Próbki można odtwarzać dowolną ilość razy, a do pytań można wracać i zm
 Po zakończeniu testu, aby zapisać wynik, należy wcisnąć przycisk "zakończ" na karcie ostatniego badania.
 </value>
   </data>
-  <metadata name="openFileDialog1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Test słuchowy do pracy inżynierskiej pt. "Wpływ akustyki pomieszczenia 
+na brzmienie nagłaśnianego koncertu przy dużym udziale instrumentów akustycznych"
+
+Autor: Radosław Bielak, Inżynieria Akustyczna, WiMIR AGH</value>
+  </data>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>25</value>
   </metadata>
 </root>

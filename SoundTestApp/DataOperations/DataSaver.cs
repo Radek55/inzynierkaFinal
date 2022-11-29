@@ -34,11 +34,11 @@ namespace SoundTestApp.DataOperations
         private void SaveToCsv(int userCode, int userAge, string userGender, string userExperience, bool userStudent, Dictionary<string, string> dane)
         {
             string projectDirectory = Directory.GetParent(Environment.CurrentDirectory).Parent.Parent.FullName;
-            StreamWriter sw = new StreamWriter(projectDirectory + "\\wynikibadania_" + userCode + ".csv", true);
+            StreamWriter sw = new StreamWriter(projectDirectory + "\\Wyniki\\wynikibadania_" + userCode + ".csv", true);
             string result = string.Empty;
             result += "Kod;Wiek;Plec;Wyksztalcenie;Student;\r\n";
             result += userCode + ";" + userAge + ";" + userGender + ";" + userExperience + ";" + userStudent + ";\r\n";
-            result += "Nr badania;Pytanie 1; Pytanie 2; Pytanie 3; Pytanie 4; Pytanie 5; Pytanie 6; Pytanie 7; Pytanie 8;\r\n";
+            result += "Nr badania;Pytanie 1; Pytanie 2; Pytanie 3; Pytanie 4; Pytanie 5; Pytanie 6;\r\n";
 
             int startingNumber = 1;
             result += startingNumber.ToString() + ";";
