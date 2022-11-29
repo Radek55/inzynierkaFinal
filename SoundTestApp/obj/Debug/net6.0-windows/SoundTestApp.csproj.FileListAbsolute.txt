@@ -1,0 +1,50 @@
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja\SoundTestApp\bin\Debug\net6.0-windows\SoundTestApp.exe
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja\SoundTestApp\bin\Debug\net6.0-windows\SoundTestApp.deps.json
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja\SoundTestApp\bin\Debug\net6.0-windows\SoundTestApp.runtimeconfig.json
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja\SoundTestApp\bin\Debug\net6.0-windows\SoundTestApp.dll
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja\SoundTestApp\bin\Debug\net6.0-windows\SoundTestApp.pdb
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja\SoundTestApp\obj\Debug\net6.0-windows\SoundTestApp.csproj.AssemblyReference.cache
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja\SoundTestApp\obj\Debug\net6.0-windows\SoundTestApp.Form1.resources
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja\SoundTestApp\obj\Debug\net6.0-windows\SoundTestApp.csproj.GenerateResource.cache
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja\SoundTestApp\obj\Debug\net6.0-windows\SoundTestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja\SoundTestApp\obj\Debug\net6.0-windows\SoundTestApp.AssemblyInfoInputs.cache
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja\SoundTestApp\obj\Debug\net6.0-windows\SoundTestApp.AssemblyInfo.cs
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja\SoundTestApp\obj\Debug\net6.0-windows\SoundTestApp.csproj.CoreCompileInputs.cache
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja\SoundTestApp\obj\Debug\net6.0-windows\SoundTestApp.dll
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja\SoundTestApp\obj\Debug\net6.0-windows\refint\SoundTestApp.dll
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja\SoundTestApp\obj\Debug\net6.0-windows\SoundTestApp.pdb
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja\SoundTestApp\obj\Debug\net6.0-windows\SoundTestApp.genruntimeconfig.cache
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja\SoundTestApp\obj\Debug\net6.0-windows\ref\SoundTestApp.dll
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja\SoundTestApp\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja\SoundTestApp\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja\SoundTestApp\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja\SoundTestApp\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja\SoundTestApp\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja\SoundTestApp\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja\SoundTestApp\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja\SoundTestApp\obj\Debug\net6.0-windows\SoundTestApp.csproj.CopyComplete
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja — kopia zapasowa\SoundTestApp\bin\Debug\net6.0-windows\SoundTestApp.exe
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja — kopia zapasowa\SoundTestApp\bin\Debug\net6.0-windows\SoundTestApp.deps.json
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja — kopia zapasowa\SoundTestApp\bin\Debug\net6.0-windows\SoundTestApp.runtimeconfig.json
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja — kopia zapasowa\SoundTestApp\bin\Debug\net6.0-windows\SoundTestApp.dll
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja — kopia zapasowa\SoundTestApp\bin\Debug\net6.0-windows\SoundTestApp.pdb
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja — kopia zapasowa\SoundTestApp\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja — kopia zapasowa\SoundTestApp\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja — kopia zapasowa\SoundTestApp\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja — kopia zapasowa\SoundTestApp\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja — kopia zapasowa\SoundTestApp\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja — kopia zapasowa\SoundTestApp\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja — kopia zapasowa\SoundTestApp\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja — kopia zapasowa\SoundTestApp\obj\Debug\net6.0-windows\SoundTestApp.csproj.AssemblyReference.cache
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja — kopia zapasowa\SoundTestApp\obj\Debug\net6.0-windows\SoundTestApp.Form1.resources
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja — kopia zapasowa\SoundTestApp\obj\Debug\net6.0-windows\SoundTestApp.csproj.GenerateResource.cache
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja — kopia zapasowa\SoundTestApp\obj\Debug\net6.0-windows\SoundTestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja — kopia zapasowa\SoundTestApp\obj\Debug\net6.0-windows\SoundTestApp.AssemblyInfoInputs.cache
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja — kopia zapasowa\SoundTestApp\obj\Debug\net6.0-windows\SoundTestApp.AssemblyInfo.cs
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja — kopia zapasowa\SoundTestApp\obj\Debug\net6.0-windows\SoundTestApp.csproj.CoreCompileInputs.cache
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja — kopia zapasowa\SoundTestApp\obj\Debug\net6.0-windows\SoundTestApp.csproj.CopyComplete
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja — kopia zapasowa\SoundTestApp\obj\Debug\net6.0-windows\SoundTestApp.dll
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja — kopia zapasowa\SoundTestApp\obj\Debug\net6.0-windows\refint\SoundTestApp.dll
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja — kopia zapasowa\SoundTestApp\obj\Debug\net6.0-windows\SoundTestApp.pdb
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja — kopia zapasowa\SoundTestApp\obj\Debug\net6.0-windows\SoundTestApp.genruntimeconfig.cache
+C:\Users\radek\OneDrive\Pulpit\PracaInzynierska\najnowsza_wersja — kopia zapasowa\SoundTestApp\obj\Debug\net6.0-windows\ref\SoundTestApp.dll

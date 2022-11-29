@@ -1,0 +1,3 @@
+Kod,Wiek, Plec, Wyksztalcenie muzyczne,Student akustki, 
+99, 0, , , False, 
+Kod pytania,Odpowiedz, 

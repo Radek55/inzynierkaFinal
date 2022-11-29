@@ -1,0 +1,3 @@
+Kod,Wiek, Plec, Wyksztalcenie muzyczne,Student akustki, 
+98, 22, mężczyzna, samouk, True, 
+Kod pytania,Odpowiedz, 
