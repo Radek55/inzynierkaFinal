@@ -177,7 +177,7 @@ namespace SoundTestApp
         }
         private void badanie1Odpowiedz6_SelectedIndexChanged(object sender, EventArgs e)
         {
-            data.PackData(badanie1Odpowiedz6.SelectedItem.ToString(), "1_6", data);
+            data.PackData(badanie1Odpowiedz6.SelectedItem.ToString(), "1_5", data);
         }
 
         //panelBadanie2==================================================================
@@ -216,9 +216,9 @@ namespace SoundTestApp
             data.PackData(badanie2Odpowiedz5.SelectedItem.ToString(), "2_5", data);
         }
 
-        private void badanie2Odpowiedz7_SelectedIndexChanged(object sender, EventArgs e)
+        private void badanie2Odpowiedz6_SelectedIndexChanged(object sender, EventArgs e)
         {
-            data.PackData(badanie2Odpowiedz7.SelectedItem.ToString(), "2_7", data);
+            data.PackData(badanie2Odpowiedz6.SelectedItem.ToString(), "2_6", data);
         }
 
         //panelBadanie3==================================================================
@@ -336,7 +336,7 @@ namespace SoundTestApp
 
         private void badanie5Odpowiedz6_SelectedIndexChanged(object sender, EventArgs e)
         {
-            data.PackData(badanie5Odpowiedz6.SelectedItem.ToString(), "5_6", data);
+            data.PackData(badanie5Odpowiedz6.SelectedItem.ToString(), "5_5", data);
         }
 
 
@@ -375,7 +375,7 @@ namespace SoundTestApp
 
         private void badanie6Odpowiedz6_SelectedIndexChanged(object sender, EventArgs e)
         {
-            data.PackData(badanie6Odpowiedz6.SelectedItem.ToString(), "6_6", data);
+            data.PackData(badanie6Odpowiedz5.SelectedItem.ToString(), "6_5", data);
         }
 
         //panelBadanie7==================================================================
