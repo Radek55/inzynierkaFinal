@@ -95,19 +95,10 @@
         }
 
         //  Pack data into dictionary
-        //  - resultString = choosen option (ex. "Nagranie A"),
-        //  - questionTaq = question numer (ex. "1_1" means Test 1, Question 1)
-        //  - data = DataComponent object containing saved results
         public void PackData(string resultString, string questionTag, DataComponent data)
         {
-            /*string result = resultString.Split(' ')[2];//.ToCharArray()[0];
-            bool addResult = data.UserResults.TryAdd(questionTag, result);
-            if (!addResult) { data.UserResults[questionTag] = result; }*/
-
             string result = resultString;
-            //bool addResult = data.UserResults.TryAdd(questionTag, result);
-            //if (!addResult) {
-            data.UserResults[questionTag] = result; //}
+            data.UserResults[questionTag] = result;
         }
     }
 }

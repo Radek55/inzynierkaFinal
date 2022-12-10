@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l9jQ1uBrxXSfcpEpas50idQLtSJmUmU8mL+grlYtwxEgRMWCgoqzRfkLcNNq6b+ihTAE69RcrWwm3oWVBB9GfQ==",
+  "dgSpecHash": "19Q5FJPUI+FbrmiTREYqGwr/8VyibKZzae0WuzGL1Il6vX4cLIzwzRJ63Q77zj92cnSpyaPxLPqPdU/8Aaa9ug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\radek\\OneDrive\\Pulpit\\PracaInzynierska\\najnowsza_wersja — kopia zapasowa\\SoundTestApp\\SoundTestApp.csproj",
+  "projectFilePath": "C:\\Users\\radek\\OneDrive\\Pulpit\\studia\\obiektowe\\aplikacja\\SoundTestApp\\Soundistica.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\radek\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
     "C:\\Users\\radek\\.nuget\\packages\\k4os.compression.lz4\\1.2.6\\k4os.compression.lz4.1.2.6.nupkg.sha512",
@@ -11,6 +11,7 @@
     "C:\\Users\\radek\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\radek\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\radek\\.nuget\\packages\\mysql.data\\8.0.31\\mysql.data.8.0.31.nupkg.sha512",
+    "C:\\Users\\radek\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
     "C:\\Users\\radek\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
     "C:\\Users\\radek\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\radek\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.1\\system.configuration.configurationmanager.4.4.1.nupkg.sha512",

@@ -1,0 +1,13 @@
+C:\Users\radek\OneDrive\Pulpit\studia\obiektowe\testapki\Soundistica.exe
+C:\Users\radek\OneDrive\Pulpit\studia\obiektowe\testapki\Soundistica.dll
+C:\Users\radek\OneDrive\Pulpit\studia\obiektowe\testapki\Soundistica.deps.json
+C:\Users\radek\OneDrive\Pulpit\studia\obiektowe\testapki\Soundistica.runtimeconfig.json
+C:\Users\radek\OneDrive\Pulpit\studia\obiektowe\testapki\Soundistica.pdb
+C:\Users\radek\OneDrive\Pulpit\studia\obiektowe\testapki\Google.Protobuf.dll
+C:\Users\radek\OneDrive\Pulpit\studia\obiektowe\testapki\K4os.Compression.LZ4.dll
+C:\Users\radek\OneDrive\Pulpit\studia\obiektowe\testapki\K4os.Compression.LZ4.Streams.dll
+C:\Users\radek\OneDrive\Pulpit\studia\obiektowe\testapki\K4os.Hash.xxHash.dll
+C:\Users\radek\OneDrive\Pulpit\studia\obiektowe\testapki\MySql.Data.dll
+C:\Users\radek\OneDrive\Pulpit\studia\obiektowe\testapki\ZstdNet.dll
+C:\Users\radek\OneDrive\Pulpit\studia\obiektowe\testapki\Newtonsoft.Json.dll
+C:\Users\radek\OneDrive\Pulpit\studia\obiektowe\testapki\BouncyCastle.Crypto.dll

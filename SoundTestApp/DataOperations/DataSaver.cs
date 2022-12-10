@@ -21,14 +21,6 @@ namespace SoundTestApp.DataOperations
             {
                 Console.WriteLine(ex.Message + "zapis lokalny failed");
             }
-            /*try
-            {
-                SaveToDataBase(userCode, dane);
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine(ex.Message + "zapis do bazy danych failed");
-            }*/
         }
 
         private void SaveToCsv(int userCode, int userAge, string userGender, string userExperience, bool userStudent, Dictionary<string, string> dane)
@@ -37,8 +29,8 @@ namespace SoundTestApp.DataOperations
             StreamWriter sw = new StreamWriter(projectDirectory + "\\Wyniki\\wynikibadania_" + userCode + ".csv", true);
             string result = string.Empty;
             result += "Kod;Wiek;Plec;Wyksztalcenie;Student;\r\n";
-            result += userCode + ";" + userAge + ";" + userGender + ";" + userExperience + ";" + userStudent + ";\r\n";
-            result += "Nr badania;Pytanie 1; Pytanie 2; Pytanie 3; Pytanie 4; Pytanie 5; Pytanie 6;\r\n";
+            result += userCode + ";" + userAge + ";" + userGender + ";" + userExperience + ";\r\n";
+            result += "Nr badania;Pytanie 1; Pytanie 2; Pytanie 3; Pytanie 4; Pytanie 5;\r\n";
 
             int startingNumber = 1;
             result += startingNumber.ToString() + ";";

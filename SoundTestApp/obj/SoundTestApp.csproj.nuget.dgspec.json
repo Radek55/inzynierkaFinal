@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\radek\\OneDrive\\Pulpit\\PracaInzynierska\\najnowsza_wersja — kopia zapasowa\\SoundTestApp\\SoundTestApp.csproj": {}
+    "C:\\Users\\radek\\OneDrive\\Pulpit\\studia\\obiektowe\\najnowsza_wersja — kopia zapasowa — kopia\\SoundTestApp\\SoundTestApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\radek\\OneDrive\\Pulpit\\PracaInzynierska\\najnowsza_wersja — kopia zapasowa\\SoundTestApp\\SoundTestApp.csproj": {
+    "C:\\Users\\radek\\OneDrive\\Pulpit\\studia\\obiektowe\\najnowsza_wersja — kopia zapasowa — kopia\\SoundTestApp\\SoundTestApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\radek\\OneDrive\\Pulpit\\PracaInzynierska\\najnowsza_wersja — kopia zapasowa\\SoundTestApp\\SoundTestApp.csproj",
+        "projectUniqueName": "C:\\Users\\radek\\OneDrive\\Pulpit\\studia\\obiektowe\\najnowsza_wersja — kopia zapasowa — kopia\\SoundTestApp\\SoundTestApp.csproj",
         "projectName": "SoundTestApp",
-        "projectPath": "C:\\Users\\radek\\OneDrive\\Pulpit\\PracaInzynierska\\najnowsza_wersja — kopia zapasowa\\SoundTestApp\\SoundTestApp.csproj",
+        "projectPath": "C:\\Users\\radek\\OneDrive\\Pulpit\\studia\\obiektowe\\najnowsza_wersja — kopia zapasowa — kopia\\SoundTestApp\\SoundTestApp.csproj",
         "packagesPath": "C:\\Users\\radek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\radek\\OneDrive\\Pulpit\\PracaInzynierska\\najnowsza_wersja — kopia zapasowa\\SoundTestApp\\obj\\",
+        "outputPath": "C:\\Users\\radek\\OneDrive\\Pulpit\\studia\\obiektowe\\najnowsza_wersja — kopia zapasowa — kopia\\SoundTestApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\radek\\AppData\\Roaming\\NuGet\\NuGet.Config",
